@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 1. Clone the repository to your local machine.
    ```markdown
-  https://github.com/Alen-S-J/TicTacToe-Game--using-AI.git
+   https://github.com/Alen-S-J/Tic-Tac-Toe-game-using-AI
    ```
 2. Open a terminal or command prompt.
 3. Navigate to the directory where the game script is located.
@@ -42,7 +42,10 @@ pip install -r requirements.txt
 ## Screenshots
 
 
-- **Output of Final Outcome**![photos
-/output.png](output.png)
+- **Output of Final Outcome**
+
+
+![Output.png](Image/Output.png)
+
 
 
